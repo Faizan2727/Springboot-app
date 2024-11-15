@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## Steps to Implement the Project
 
 ### Deployment Using Docker
@@ -38,7 +36,7 @@
    ```bash
    docker build -t bankapp-mini .
    ```
-   > Replace `<your_dockerhub_username>` with your DockerHub username.
+   
 
 5. **Create a Docker Network**  
    ```bash
