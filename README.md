@@ -61,7 +61,7 @@
 9. **Access the Application**  
    Open port **8080** on your AWS instance's security group.  
    Access the application at:  
-   `http://<public-ip>:8000`
+   `http://<public-ip>:8080`
 
 ---
 
@@ -82,7 +82,7 @@
 3. **Access the Application**  
    Ensure port **8080** is open in your AWS instance's security group.  
    Access the application at:  
-   `http://<public-ip>:8000`
+   `http://<public-ip>:8080`
 
 > **Note**:  
 > If you face issues with containers exiting unexpectedly, run:  
