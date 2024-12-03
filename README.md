@@ -61,7 +61,7 @@
 9. **Access the Application**  
    Open port **8080** on your AWS instance's security group.  
    Access the application at:  
-   `http://<public-ip>:8080`
+   `http://<public-ip>:8000`
 
 ---
 
